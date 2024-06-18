@@ -5,4 +5,4 @@ This repository hosts my implementation of the foundational ray tracing engine a
 ![final_render](https://github.com/adamakio/RayTracingInOneWeekend/assets/94808206/6707fc42-734d-40b2-ac58-254020143061)
 
 ## Reference
-https://raytracing.github.io/books/RayTracingInOneWeekend.html#defocusblur/generatingsamplerays
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
